@@ -28,6 +28,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+platform :ios, '7.0'
+
 ## Installation
 
 CoreTextView is available through [CocoaPods](http://cocoapods.org). To install

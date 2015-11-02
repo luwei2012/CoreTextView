@@ -1,0 +1,14 @@
+PODS:
+  - CoreTextView (0.1.0)
+
+DEPENDENCIES:
+  - CoreTextView (from `../`)
+
+EXTERNAL SOURCES:
+  CoreTextView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreTextView: 939be7f81b05c7b53e70c5145889e55fd95cfe08
+
+COCOAPODS: 0.39.0

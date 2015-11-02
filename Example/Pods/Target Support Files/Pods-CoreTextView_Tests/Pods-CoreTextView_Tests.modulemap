@@ -1,0 +1,6 @@
+framework module Pods_CoreTextView_Tests {
+  umbrella header "Pods-CoreTextView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

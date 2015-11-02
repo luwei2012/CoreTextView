@@ -1,0 +1,6 @@
+framework module CoreTextView {
+  umbrella header "CoreTextView-umbrella.h"
+
+  export *
+  module * { export * }
+}

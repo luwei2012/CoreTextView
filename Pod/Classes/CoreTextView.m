@@ -1,6 +1,6 @@
 //
 //  CoreTextView.m
-//  coreText
+//  CoreTextView
 //
 //  Created by luwei on 15/10/29.
 //  Copyright © 2015年 luwei. All rights reserved.

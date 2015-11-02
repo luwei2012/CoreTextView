@@ -21,7 +21,7 @@ This is a Vertical UILabel, and only for vertically. I have searched around for 
 If you want to contribut to this project,please email "1071932819@qq.com".     
                   DESC
 
-  s.homepage         = "https://github.com/luwei2012/CoreText"
+  s.homepage         = "https://github.com/luwei2012/CoreTextView"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'GNU'
   s.author           = { "1071932819@qq.com" => "luwei4685" }

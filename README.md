@@ -1,12 +1,12 @@
-# CoreText
+# CoreTextView
 
-[![CI Status](http://img.shields.io/travis/1071932819@qq.com/CoreText.svg?style=flat)](https://travis-ci.org/1071932819@qq.com/CoreText)
-[![Version](https://img.shields.io/cocoapods/v/CoreText.svg?style=flat)](http://cocoapods.org/pods/CoreText)
-[![License](https://img.shields.io/cocoapods/l/CoreText.svg?style=flat)](http://cocoapods.org/pods/CoreText)
-[![Platform](https://img.shields.io/cocoapods/p/CoreText.svg?style=flat)](http://cocoapods.org/pods/CoreText)
+[![CI Status](http://img.shields.io/travis/1071932819@qq.com/CoreTextView.svg?style=flat)](https://travis-ci.org/1071932819@qq.com/CoreTextView)
+[![Version](https://img.shields.io/cocoapods/v/CoreTextView.svg?style=flat)](http://cocoapods.org/pods/CoreTextView)
+[![License](https://img.shields.io/cocoapods/l/CoreTextView.svg?style=flat)](http://cocoapods.org/pods/CoreTextView)
+[![Platform](https://img.shields.io/cocoapods/p/CoreTextView.svg?style=flat)](http://cocoapods.org/pods/CoreTextView)
 vertical label 效果预览：
 
-![vertical label 效果预览](https://github.com/luwei2012/CoreText/blob/master/releaseV1.1.png)
+![vertical label 效果预览](https://github.com/luwei2012/CoreTextView/blob/master/releaseV1.1.png)
 
 支持字体、行数、文字颜色、行间距和字符间距的设置。
 
@@ -30,11 +30,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-CoreText is available through [CocoaPods](http://cocoapods.org). To install
+CoreTextView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "CoreText"
+pod "CoreTextView"
 ```
 # V1.0特性:
 
@@ -56,4 +56,4 @@ self.testLabel.baseLine = CoreTextBaseLineRight | CoreTextBaseLineBottom;查看�
 
 ## License
 
-CoreText is available under the GNU license. See the LICENSE file for more info.
+CoreTextView is available under the GNU license. See the LICENSE file for more info.

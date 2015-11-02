@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "CoreTextView"
-  s.version          = "1.1.2"
+  s.version          = "1.1.3"
   s.summary          = "A Vertical UILabel"
 
 # This description is used to generate tags and improve search results.
@@ -31,12 +31,12 @@ If you want to contribut to this project,please email "1071932819@qq.com".
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
-  s.source_files = 'Pod/Classes/*'
+  s.source_files = 'Pod/Classes/**/*'
   s.resource_bundles = {
     'CoreTextView' => ['Pod/Assets/*.png']
   }
 
-  # s.public_header_files = 'Pod/Classes/*.h'
+  # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

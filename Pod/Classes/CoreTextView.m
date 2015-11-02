@@ -269,8 +269,8 @@ baseLine = _baseLine, wordSpace = _wordSpace;
 
 -(CGSize)singleWordSize{
     NSString *text = @"文";
-    CGSize labelsize = [text sizeWithFont:self.font constrainedToSize:CGSizeMake(CGFLOAT_MAX, CGFLOAT_MAX)];
-    return labelsize;
+    CGSize size = [text sizeWithAttributes:@{NSFontAttributeName:self.font}];
+    return CGSizeMake(ceilf(size.width), ceilf(size.height));;
 }
 
 

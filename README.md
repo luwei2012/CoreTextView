@@ -54,7 +54,7 @@ self.testLabel.baseLine = CoreTextBaseLineRight | CoreTextBaseLineBottom;查看�
 
 ## Author
 
-1071932819@qq.com, luwei4685
+luwei
 
 ## License
 
